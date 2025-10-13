@@ -13,5 +13,4 @@ Repositório para a matéria de Linguagem de Programação II - 2025.2
 
 ## 🛠 Tecnologias
 - Java
-- Tratamento de Exceções
 - Boas práticas de programação
