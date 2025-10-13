@@ -9,6 +9,7 @@ Repositório para a matéria de Linguagem de Programação II - 2025.2
 ## 📋 Trabalhos
 
 1. [Tratamento de Exceções](./trabalhos/tratamento-excecoes/) - Entrega: 13/10/2025
+2. [Classes Genéticas](./trabalhos/classes-genericas/) - Entrega: 19/10/2025
 
 ## 🛠 Tecnologias
 - Java
