@@ -46,13 +46,11 @@ public class LeitorNumeros {
             try {
                 if (br != null) {
                     br.close();
-                    System.out.println("\nArquivo fechado.");
+                    System.out.println("\nLeitura concluída!");
                 }
             } catch (IOException e) {
                 System.out.println("Erro ao fechar o arquivo.");
             }
         }
-        
-        System.out.println("Leitura concluída!");
     }
 }
