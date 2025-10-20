@@ -18,7 +18,7 @@ Sua tarefa será transformar essa classe em uma classe genérica Repositorio<T>,
 - Demonstrar os testes em uma classe Main, exibindo os resultados no console.
 
 ## Critérios de Avaliação 
-0,25 pt → Definiu corretamente class Repositorio<T> e aplicou Generics.
-0,25 pt → Implementou adicionar e remover corretamente usando coleções.
-0,25 pt → Implementou buscar(String chave) de forma funcional.
-0,25 pt → Testou com String e com Aluno no programa principal.
+- 0,25 pt → Definiu corretamente class Repositorio<T> e aplicou Generics.
+- 0,25 pt → Implementou adicionar e remover corretamente usando coleções.
+- 0,25 pt → Implementou buscar(String chave) de forma funcional.
+- 0,25 pt → Testou com String e com Aluno no programa principal.
