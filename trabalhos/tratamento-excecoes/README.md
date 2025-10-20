@@ -21,5 +21,7 @@ Corrigir o programa Java que lê arquivos .txt, adicionando tratamento para:
 
 ## 🚀 Como executar
 ```bash
-cd trabalhos/tratamento-excecoes
+cd trabalhos/tratamento-excecoes/src
+javac LeitorNumeros.java
+java LeitorNumeros
 ```
