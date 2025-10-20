@@ -1,25 +1,24 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Repositorio {
-    private List objetos;
+public class Repositorio<T> {
+    private List<T> objetos;
 
     public Repositorio() {
-        objetos = new ArrayList();
+        objetos = new ArrayList<>();
     }
 
-    public void adicionar(Object obj) {
+    public void adicionar(T obj) {
         objetos.add(obj);
     }
 
-    public void remover(Object obj) {
+    public void remover(T obj) {
         objetos.remove(obj);
     }
 
-    public Object buscar(String chave) {
-        for (Object obj : objetos) {
-            // Comparação simplificada - aluno deve generalizar
-            if (obj.toString().equalsIgnoreCase(chave)) {
+    public T buscar(String chave) {
+        for (T obj : objetos) {
+            if (obj.toString().equals(chave)) {
                 return obj;
             }
         }
@@ -27,7 +26,7 @@ public class Repositorio {
     }
 
     public void listar() {
-        for (Object obj : objetos) {
+        for (T obj : objetos) {
             System.out.println(obj);
         }
     }
