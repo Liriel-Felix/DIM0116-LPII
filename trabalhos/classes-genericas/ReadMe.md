@@ -1,6 +1,6 @@
-# Generics e Coleções 
+# Projeto 2 | Generics e Coleções 
 
-Entrega: 19/10/2025
+**Data de entrega:** 19/10/2025
 
 Você receberá uma classe Repositorio implementada de forma simples, que ainda não utiliza Generics e trabalha apenas com Object.
 
