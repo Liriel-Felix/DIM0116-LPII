@@ -19,7 +19,7 @@ Você deverá criar a interface genérica Fila<T> que represente uma fila (estru
 - Mostrar a quantidade de clientes aguardando.
  
 ## Critérios de Avaliação (2 pts)
-0,5 pt → Definiu corretamente a interface Fila<T>.
-0,5 pt → Implementação funcional com LinkedList.
-0,5 pt → Implementação funcional com ArrayDeque.
-0,5 pt → Demonstração da simulação de atendimento no Main.
+- 0,5 pt → Definiu corretamente a interface Fila<T>.
+- 0,5 pt → Implementação funcional com LinkedList.
+- 0,5 pt → Implementação funcional com ArrayDeque.
+- 0,5 pt → Demonstração da simulação de atendimento no Main.
