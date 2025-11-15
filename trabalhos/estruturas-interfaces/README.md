@@ -1,4 +1,5 @@
 # Estruturas e Interfaces (2 pts)
+**Aluna:** Liriel Felix
  
 **Data de entrega:** 16/11/2025
  
@@ -23,3 +24,11 @@ Você deverá criar a interface genérica Fila<T> que represente uma fila (estru
 - 0,5 pt → Implementação funcional com LinkedList.
 - 0,5 pt → Implementação funcional com ArrayDeque.
 - 0,5 pt → Demonstração da simulação de atendimento no Main.
+
+## Como compilar
+
+```bash
+cd src
+javac *.java
+java Main
+```
