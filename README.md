@@ -1,7 +1,7 @@
 # Linguagem de Programação 2
 
-Repositório para a matéria de Linguagem de Programação II - 2025.2
 **Professor:** Alan de Oliveira Santana
+- Repositório para a matéria de Linguagem de Programação II - 2025.2
 
 ## 📚 Estrutura do Repositório
 
